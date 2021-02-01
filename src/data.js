@@ -6,7 +6,7 @@ const data = {
             image: "/image/shirt2.jpg",
             price: "$50",
             brand: "Plus Point",
-            exDate: "Above all 2 Years"
+            exDate: "Ex.Date: 02-12-2022"
         },
         {
             name: "Check Blue Shirt",
@@ -14,7 +14,7 @@ const data = {
             image: "/image/shirt3.jpg",
             price: "$70",
             brand: "Sailor",
-            exDate: "Above all 2 Years"
+            exDate: "Ex.Date: 02-12-2022"
         },
         {
             name: "Solid Shirt",
@@ -22,7 +22,7 @@ const data = {
             image: "/image/shirt1.jpg",
             price: "$60",
             brand: "Cats Eye",
-            exDate: "Above all 3 Years"
+            exDate: "Ex.Date: 02-12-2022"
         },
         {
             name: "Full Weight Dress",
@@ -30,7 +30,7 @@ const data = {
             image: "/image/ladies-fashion1.jpg",
             price: "$150",
             brand: "Plus Point",
-            exDate: "Above all 2 Years"
+            exDate: "Ex.Date: 02-12-2022"
         },
         {
             name: "Blue Jeans",
@@ -38,7 +38,7 @@ const data = {
             image: "/image/ladies-fashion2.jpg",
             price: "$70",
             brand: "Sailor",
-            exDate: "Above all 2 Years"
+            exDate: "Ex.Date: 02-12-2022"
         },
         {
             name: "Jeans Shirt",
@@ -46,7 +46,7 @@ const data = {
             image: "/image/ladies-fashion3.jpg",
             price: "$60",
             brand: "Cats Eye",
-            exDate: "Above all 3 Years"
+            exDate: "Ex.Date: 02-12-2022"
         },
         {
             name: "Black Bag",
@@ -54,7 +54,7 @@ const data = {
             image: "/image/bag1.jpg",
             price: "$50",
             brand: "Plus Point",
-            exDate: "Above all 2 Years"
+            exDate: "Ex.Date: 02-12-2022"
         },
         {
             name: "Hand Bag",
@@ -62,7 +62,7 @@ const data = {
             image: "/image/bag2.jpg",
             price: "$70",
             brand: "Sailor",
-            exDate: "Above all 2 Years"
+            exDate: "Ex.Date: 02-12-2022"
         },
         {
             name: "Exclusive Hand Bag",
@@ -70,7 +70,7 @@ const data = {
             image: "/image/bag3.jpg",
             price: "$60",
             brand: "Cats Eye",
-            exDate: "Above all 3 Years"
+            exDate: "Ex.Date: 02-12-2022"
         },
         {
             name: "Jeans Shirt",
@@ -78,7 +78,7 @@ const data = {
             image: "/image/ladies-fashion3.jpg",
             price: "$60",
             brand: "Cats Eye",
-            exDate: "Above all 3 Years"
+            exDate: "Ex.Date: 02-12-2022"
         },
         {
             name: "Check Black Shirt",
@@ -86,14 +86,14 @@ const data = {
             image: "/image/shirt2.jpg",
             price: "$50",
             brand: "Plus Point",
-            exDate: "Above all 2 Years"
+            exDate: "Ex.Date: 02-12-2022"
         },
         {
             name: "Check Blue Shirt",
             image: "/image/shirt3.jpg",
             price: "$70",
             brand: "Sailor",
-            exDate: "Above all 2 Years"
+            exDate: "Ex.Date: 02-12-2022"
         },
 
     ]
