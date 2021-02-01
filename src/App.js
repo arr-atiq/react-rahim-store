@@ -21,8 +21,8 @@ function App() {
                     </div>
                 </div>
                 <div className="header-item">
-                    <a href="cart.html">cart</a>
-                    <a href="sigin.html">Sign</a>
+                    <a href="cart.html">Cart</a>
+                    <a href="sigin.html">Sign In</a>
                 </div>
             </header>
             <aside className="sidebar">
