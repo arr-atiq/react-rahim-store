@@ -52,7 +52,7 @@ function App() {
                                             <a href="product.html">{product.name}</a>
                                         </div>
                                         <div className="product-brand">{product.brand}</div>
-                                        <div className="product-price">${product.price}</div>
+                                        <div className="product-price">{product.price}</div>
                                         <div className="product-exDate">{product.exDate}</div>
                                     </div>
                                 </li>
